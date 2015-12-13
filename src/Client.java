@@ -17,6 +17,6 @@ public class Client {
 			p.println(num);
 			int temp = sc1.nextInt();
 			System.out.println(temp);
-			System.out.println("lol");
+			System.out.println("banny");
 		}
 }
